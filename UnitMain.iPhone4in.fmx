@@ -4,5 +4,12 @@ inherited Form1_iPhone4in: TForm1_iPhone4in
   DesignerMasterStyle = 2
   inherited ToolBar1: TToolBar
     Size.Width = 320.000000000000000000
+    inherited SpeedButton1: TSpeedButton [0]
+    end
+    inherited SpeedButton2: TSpeedButton [1]
+    end
+    inherited Label1: TLabel [2]
+      Size.Width = 320.000000000000000000
+    end
   end
 end
