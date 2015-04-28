@@ -13,6 +13,7 @@ type
     SpeedButton1: TSpeedButton;
     SpeedButton2: TSpeedButton;
     Label1: TLabel;
+    SpeedButton3: TSpeedButton;
   private
     { Private declarations }
   public
